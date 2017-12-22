@@ -1,0 +1,12 @@
+F:\T\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+F:\T\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+F:\T\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+F:\T\BookManagement\BookManagement\bin\Debug\MySql.Data.dll
+F:\T\BookManagement\BookManagement\bin\Debug\MySql.Data.xml
+F:\T\BookManagement\BookManagement\obj\Debug\BookManagement.csprojResolveAssemblyReference.cache
+F:\T\BookManagement\BookManagement\obj\Debug\BookManagement.Form1.resources
+F:\T\BookManagement\BookManagement\obj\Debug\BookManagement.Form2.resources
+F:\T\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+F:\T\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.Cache
+F:\T\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+F:\T\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
